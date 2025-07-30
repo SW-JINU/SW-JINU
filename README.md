@@ -1,6 +1,6 @@
 <div align="right">
 
-[![Visitor](https://myhits.vercel.app/api/hit/https%3A%2F%2Fmyhits.vercel.app?color=blue&label=Visitor&size=medium)](https://myhits.vercel.app)
+![Visitor Count](https://komarev.com/ghpvc/?username=JI-NU&color=blue&label=Visitor)
 
 </div>
 
