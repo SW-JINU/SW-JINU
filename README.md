@@ -16,7 +16,7 @@
 ---
 
 ## 📊 GitHub Stats
-[![JI-NU's GitHub stats](https://github-readme-stats.vercel.app/api?username=JI-NU&include_all_commits=true&count_private=true&show_icons=true&theme=github_dark)](https://github.com/JI-NU/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JI-NU&layout=compact&count_private=true&theme=github_dark)
+[![SW-JINU's GitHub stats](https://github-readme-stats.vercel.app/api?username=SW-JINU&include_all_commits=true&count_private=true&show_icons=true&theme=github_dark)](https://github.com/SW-JINU/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SW-JINU&layout=compact&count_private=true&theme=github_dark)
 
 ---
 
