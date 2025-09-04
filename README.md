@@ -10,20 +10,34 @@
 ---
 
 ## 👨‍💻 About Me
+**사용자의 생각을 코드로 구현하는 임베디드 개발자가 되고싶은 김진우👋**
+
+<br>
+
+## 📚 Education / Experience
+
 🎓 **금오공과대학교 기계공학과 졸업**  
 💻 **삼성 청년 SW 아카데미 (SSAFY) 12기**
 
----
+
+<br>
+
+## 🏆 Awards / Certificates
+🥉 **삼성 청년 SW 아카데미 자율 프로젝트 우수상**
+
+<br>
 
 ## 📊 GitHub Stats
 ![SW-JINU's GitHub stats](https://github-readme-stats.vercel.app/api?username=SW-JINU&include_all_commits=true&count_private=true&show_icons=true&theme=github_dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SW-JINU&layout=compact&count_private=true&theme=github_dark)
 
----
+
+<br>
 
 ## 🏆 Algorithm
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gkrdnjs43">
 
----
+<br>
+
 ## 🔨 Tech Stack
 ### 💻 Languages
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
@@ -34,7 +48,8 @@
 ### 🛠️ Tools & Environment
 <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />  
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
----
+
+<br>
 
 
 ---
