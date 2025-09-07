@@ -28,7 +28,7 @@
 <br>
 
 ## 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SW-JINU&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=1E90FF&text_color=FFFFFF&title_color=1E90FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SW-JINU&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=1E90FF&text_color=FFFFFF&title_color=1E90FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
 </a>    
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=SW-JINU&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=1E90FF&text_color=FFFFFF&title_color=1E90FF&count_private=true" width=56% />
