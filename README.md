@@ -28,7 +28,14 @@
 <br>
 
 ## 📊 GitHub Stats
-![SW-JINU's GitHub stats](https://github-readme-stats.vercel.app/api?username=SW-JINU&include_all_commits=true&count_private=true&show_icons=true&theme=github_dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SW-JINU&layout=compact&count_private=true&theme=github_dark)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SW-JINU&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=1E90FF&text_color=FFFFFF&title_color=1E90FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
+</a>    
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=SW-JINU&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=1E90FF&text_color=FFFFFF&title_color=1E90FF&count_private=true" width=56% />
+</a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SW-JINU&theme=react-dark&bg_color=20232a&hide_border=true&line=1E90FF&color=1E90FF" width=94%/>
+</a>
 
 
 <br>
