@@ -38,6 +38,7 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=SW-JINU&theme=react-dark&bg_color=20232a&hide_border=true&line=1E90FF&color=1E90FF" width=94%/>
 </a>
 
+---
 
 <br>
 
